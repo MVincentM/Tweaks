@@ -1,0 +1,9 @@
+Package: com.mvincentm.myname
+Name: MyName
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: M_Vincent_M
+Author: M_Vincent_M
+Section: Tweaks
