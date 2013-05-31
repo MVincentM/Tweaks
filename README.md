@@ -1,7 +1,7 @@
-MyName
+Tweak
 ======
 
-A little tweak with over 200 000 downloads which will change your operator name by your name without your help.
-(the code isn't realy beautiful but it works ..)
+You will find code of different tweak or just little code for your tweak.
 
-For more info follow me @M_Vincent_M on twitter.
+Twitter : @M_Vincent_M
+WebSite : vincentmm.free.fr/mobile
