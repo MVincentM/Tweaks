@@ -1,9 +1,0 @@
-Package: com.mvincentm.myname
-Name: MyName
-Depends: mobilesubstrate
-Version: 2.0
-Architecture: iphoneos-arm
-Description: MyName changes automaticaly the operator name with your name. 
-Maintainer: VincentMdlM
-Author: VincentMdlM
-Section: Tweaks
